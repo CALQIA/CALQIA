@@ -1,3 +1,3 @@
 Hola
-una nueva
+una nueva tipo de prueba
 Prueba
